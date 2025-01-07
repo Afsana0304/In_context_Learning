@@ -1,0 +1,10 @@
+torch==2.1.0              # PyTorch version\
+transformers==4.32.0       # Hugging Face Transformers library\
+datasets==2.9.0            # Hugging Face Datasets library\
+evaluate==0.4.0            # Evaluation metrics library\
+rouge_score==0.1.0         # ROUGE score for summarization evaluation\
+scipy==1.10.0              # For scientific computations\
+numpy==1.24.0              # For numerical operations\
+tqdm==4.65.0               # Progress bar \
+accelerate==0.22.0         # Hugging Face Accelerate for multi-device training\
+bitsandbytes==0.39.0       # Bits and Bytes for model_optimizations\
